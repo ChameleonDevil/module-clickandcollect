@@ -27,6 +27,9 @@ define([
             var infoWindow = new google.maps.InfoWindow();
 
             $.each(stores, function(index, obj) {
+                if($.type( obj ) !== "array"){
+                    return;
+                }
                 $.each(obj, function(key, store) {
                     var latitude = parseFloat(store.latitude),
                         longitude = parseFloat(store.longitude),
