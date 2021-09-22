@@ -1,5 +1,9 @@
 Click & Collect, or Store Pick Up extension for Magento 2 is offering customers the chance to buy their items online and collect them later in bricks and mortar stores. 
 
+## Origin
+- Forked with minor updates from https://github.com/zaheerbadi/module-clickandcollect
+- Original source : https://github.com/milanstojanov90/module-clickandcollect
+
 ![alt tag](http://i.imgur.com/iMRY5bJ.jpg "Click & Collect")
 
 ## It Benefits Both Shoppers and Stores
